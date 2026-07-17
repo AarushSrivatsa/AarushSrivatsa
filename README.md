@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AarushSrivatsa
-- 👀 I’m interested in development
-- 🌱 I’m currently learning python
-- 📫 How to reach me : pitlaaarushsrivatsa@gmail.com
+- 👀 I’m interested in working on something which satisfies my intellectual hunger
+- 🌱 I learnt to build backend and REST-APIs with fastapi
+- 📫 How to reach me : pitlaaarushsrivatsa@gmail.com ,  https://www.linkedin.com/in/aarush-srivatsa-175170401/
 - 😄 Pronouns: he/him
 
 <!---
